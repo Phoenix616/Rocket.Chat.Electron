@@ -281,7 +281,7 @@
   "menus": {
     "about": "Über {{- appName}}",
     "addNewServer": "&Neuen server hinzufügen",
-    "back": "&Der Rücken",
+    "back": "&Zurück",
     "clearTrustedCertificates": "Vertraute zertifikate löschen",
     "close": "Schließen",
     "copy": "&Kopieren",
